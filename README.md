@@ -1,33 +1,18 @@
-# Bhavesh-Dadmal
-HELLO WORLD, THIS IS MY PROFILE.
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="center">Hi 👋, I'm Bhavesh</h1>
+<h3 align="center">B.Tech Computer Engineering Student | Skilled in C, Java, Python | Aspiring AI/ML Engineer</h3>
 
-###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhaveshdadmal007-rgb&label=Profile%20views&color=0e75b6&style=flat" alt="bhaveshdadmal007-rgb" /> </p>
 
-<p align="left">My name is Bhavesh  <br>and I'm a Computer Engineering student from PCCOER Pune</p>
+- Project [Medicine Reminder System (C Program)](https://github.com/bhaveshdadmal007-rgb/medicine-reminder)
 
-###
+- 📫 How to reach me **bhaveshdadmal007@gmail.com**
 
-<h2 align="left">About me</h2>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/bhavesh dadmal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bhavesh dadmal" height="30" width="40" /></a>
+</p>
 
-###
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p align="left">✨ Creating bugs since my first year of B.Tech, while learning C, Java, and Python  <br>📚 I'm currently learning AI/ML engineering, Generative AI, and competitive programming  <br>🎯 Goals: Build and showcase impactful projects on GitHub & LinkedIn for recruiter visibility  <br>🎲 Fun fact: I enjoy sunrise treks and creating handwritten-style notes with diagrams</p>
-
-###
-
-<h2 align="left">Skills</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhaveshdadmal007-rgb&show_icons=true&locale=en&layout=compact" alt="bhaveshdadmal007-rgb" /></p>
